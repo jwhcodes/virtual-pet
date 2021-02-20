@@ -18,6 +18,9 @@ If your pet gets too hungry or unfit, it will DIE 💀
 
 If your pet gets to 30 days old it will DIE 😢
 
+Your pet is able to give birth, keep it fed and fit!
+
+Owners added 
 
 -------------------------------------------------------------------------
 
