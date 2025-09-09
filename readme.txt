@@ -1,7 +1,4 @@
                                 VIRTUAL PET 
-
-The pets we're going to make will have the following features:
-
 You can give them a name
 
 They can get older
@@ -23,6 +20,3 @@ Your pet is able to give birth, keep it fed and fit!
 Owners added 
 
 -------------------------------------------------------------------------
-
-
-JOE WARNER
